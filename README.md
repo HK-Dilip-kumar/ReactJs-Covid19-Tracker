@@ -1,3 +1,6 @@
+## The website is hoted at https://covid-19-tracker-7ede2.web.app/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
